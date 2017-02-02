@@ -1,0 +1,41 @@
+input, textarea {
+  color: #dddddd;
+}
+#submit {
+  color: black;
+}
+
+form {
+  display: inline-block;
+  width: 15%;
+  text-align: left;
+}
+.wrapper {
+  margin-left: 20px;
+  vertical-align: top;
+  display: inline-block;
+  width: 360px;
+}
+
+.card, .desc {
+  display: block;
+  width: 350px;
+  height: 200px;
+  border: 1px black solid;
+  margin: 10px 0px;
+}
+
+.card {
+  text-align: center;
+}
+
+.desc {
+  text-align: left;
+}
+.desc p {
+  padding: 5px 20px;
+}
+
+textarea {
+  width: 100%;
+}
